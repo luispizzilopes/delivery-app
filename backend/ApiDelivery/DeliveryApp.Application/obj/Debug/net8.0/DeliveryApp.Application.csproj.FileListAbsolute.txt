@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\DeliveryApp\backend\ApiDelivery\DeliveryApp.Application\bin\Debug\net8.0\DeliveryApp.Application.deps.json
+C:\Users\PC\Desktop\DeliveryApp\backend\ApiDelivery\DeliveryApp.Application\bin\Debug\net8.0\DeliveryApp.Application.dll
+C:\Users\PC\Desktop\DeliveryApp\backend\ApiDelivery\DeliveryApp.Application\bin\Debug\net8.0\DeliveryApp.Application.pdb
+C:\Users\PC\Desktop\DeliveryApp\backend\ApiDelivery\DeliveryApp.Application\obj\Debug\net8.0\DeliveryApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\DeliveryApp\backend\ApiDelivery\DeliveryApp.Application\obj\Debug\net8.0\DeliveryApp.Application.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\DeliveryApp\backend\ApiDelivery\DeliveryApp.Application\obj\Debug\net8.0\DeliveryApp.Application.AssemblyInfo.cs
+C:\Users\PC\Desktop\DeliveryApp\backend\ApiDelivery\DeliveryApp.Application\obj\Debug\net8.0\DeliveryApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DeliveryApp\backend\ApiDelivery\DeliveryApp.Application\obj\Debug\net8.0\DeliveryApp.Application.dll
+C:\Users\PC\Desktop\DeliveryApp\backend\ApiDelivery\DeliveryApp.Application\obj\Debug\net8.0\refint\DeliveryApp.Application.dll
+C:\Users\PC\Desktop\DeliveryApp\backend\ApiDelivery\DeliveryApp.Application\obj\Debug\net8.0\DeliveryApp.Application.pdb
+C:\Users\PC\Desktop\DeliveryApp\backend\ApiDelivery\DeliveryApp.Application\obj\Debug\net8.0\ref\DeliveryApp.Application.dll
